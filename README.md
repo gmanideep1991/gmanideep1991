@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Github 👋
 This is Manideep, I am software engineer currently working at [Cerner](https://www.cerner.com/)
 
 - 🌱 I’m currently learning 
