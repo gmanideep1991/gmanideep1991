@@ -1,5 +1,5 @@
 ### Hello Github 👋
-This is Manideep, I am software engineer currently working at [Macy's](https://www.macys.com)
+This is Manideep, I am software engineer currently working at [Teladoc](https://www.teladoc.com)
 
 - 🌱 I’m currently learning 
    - Machine learning.
